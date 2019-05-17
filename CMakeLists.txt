@@ -4,5 +4,5 @@ project(BOJ)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(BOJ BOJ10951.cpp BOJ10952.cpp BOJ10953.cpp BOJ11021.cpp BOJ11022.cpp BOJ11718.cpp BOJ11719.cpp)
-add_executable(BOJ10952 BOJ10952.cpp)
-add_executable(BOJ10953 BOJ10953.cpp)
+add_executable(BOJ11721 BOJ11721.cpp)
+add_executable(BOB11720 BOB11720.cpp)
