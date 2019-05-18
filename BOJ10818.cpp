@@ -26,3 +26,6 @@ int main(){
 }
 
 //min = temp 와 temp = min 은 다르다
+
+//min = temp는 temp에 있는 값을 min에 할당하는 거고,
+//temp = min은 min에 있는 값을 temp에 할당하는겁니다
